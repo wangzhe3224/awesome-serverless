@@ -13,6 +13,10 @@
 
 - [LocalStack](https://github.com/localstack/localstack) - A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
 
+## Videos
+
+- [AWS re:Invent 2022 - Best practices for advanced serverless developers (SVS401)](https://www.youtube.com/watch?v=PiQ_eZFO2GU)
+
 
 ## Website
 
